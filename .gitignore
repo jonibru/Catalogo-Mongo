@@ -30,3 +30,9 @@ Thumbs.db
 
 # Datos locales de los contenedores
 .data/
+
+# TP MongoDB
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.zip
